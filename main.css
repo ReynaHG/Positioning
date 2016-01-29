@@ -6,16 +6,28 @@ div{
 
  .amarillo{
  	background: yellow;
- 	position: static;
+ 	position: absolute;
+ 	left: 0;
+ 	top: 0;
  }
 
 .azul{
  	background: blue;
- 	position: relative;
- 	left: 200px;
+ 	position: absolute;
+ 	left: 0;
+ 	bottom: 0;
 }
 
 .rojo{
  	background: red;
- 	position: static;
+ 	position: absolute;
+ 	right: 0;
+ 	top: 0;
+}
+
+.verde{
+ 	background: green;
+ 	position: absolute;
+ 	right: 0;
+ 	bottom: 0;
 }
