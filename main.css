@@ -1,0 +1,21 @@
+/* Inserta tu CSS aqui */
+div{
+	height: 200px;
+	width:  200px;
+   }
+
+ .amarillo{
+ 	background: yellow;
+ 	position: static;
+ }
+
+.azul{
+ 	background: blue;
+ 	position: relative;
+ 	left: 200px;
+}
+
+.rojo{
+ 	background: red;
+ 	position: static;
+}
